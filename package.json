@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/sonec21/react-redux/issues"
   },
-  "homepage": "https://github.com/sonec21/react-redux#readme"
+  "homepage": "https://github.com/sonec21/react-redux#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
 }
